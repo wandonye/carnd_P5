@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image13]: ./output_images/heat_test5.jpg
 [gif1]: ./output_images/heatmap_corner.gif
 [gif2]: ./output_images/heatmap_overlay.gif
-[gif2]: ./output_images/bounding.gif
+[gif3]: ./output_images/bounding.gif
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -162,9 +162,9 @@ I recorded the positions of positive detections in each frame of the video.  Fro
 
 Here's an example result showing the heatmap from a series of frames of video, the result of `scipy.ndimage.measurements.label()` and the bounding boxes then overlaid on the last frame of video:
 
-![alt text][gif1]
-
 ![alt text][gif2]
+
+![alt text][gif1]
 
 ### Here the resulting bounding boxes:
 ![alt text][gif3]
